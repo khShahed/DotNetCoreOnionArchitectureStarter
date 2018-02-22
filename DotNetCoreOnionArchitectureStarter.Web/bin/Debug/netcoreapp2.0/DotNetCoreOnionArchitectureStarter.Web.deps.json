@@ -3799,9 +3799,6 @@
         }
       },
       "DotNetCoreOnionArchitectureStarter.Core/1.0.0": {
-        "dependencies": {
-          "Microsoft.NETCore.App": "2.0.5"
-        },
         "runtime": {
           "DotNetCoreOnionArchitectureStarter.Core.dll": {}
         },
@@ -3814,8 +3811,7 @@
           "DotNetCoreOnionArchitectureStarter.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore.Design": "2.0.1",
-          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
-          "Microsoft.NETCore.App": "2.0.5"
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1"
         },
         "runtime": {
           "DotNetCoreOnionArchitectureStarter.Infrastructure.dll": {}

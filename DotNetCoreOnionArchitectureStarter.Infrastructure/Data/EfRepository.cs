@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
+using DotNetCoreOnionArchitectureStarter.Core.Data;
 using DotNetCoreOnionArchitectureStarter.Core.Entities;
 using DotNetCoreOnionArchitectureStarter.Core.Interfaces;
 using Microsoft.EntityFrameworkCore;

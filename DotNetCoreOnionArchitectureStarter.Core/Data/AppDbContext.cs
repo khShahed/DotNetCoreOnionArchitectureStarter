@@ -1,8 +1,7 @@
-﻿
-using DotNetCoreOnionArchitectureStarter.Core.Entities;
+﻿using DotNetCoreOnionArchitectureStarter.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace DotNetCoreOnionArchitectureStarter.Infrastructure.Data
+namespace DotNetCoreOnionArchitectureStarter.Core.Data
 {
     public class AppDbContext : DbContext
     {
