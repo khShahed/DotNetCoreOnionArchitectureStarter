@@ -1,0 +1,9 @@
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\bin\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.deps.json
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\bin\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.dll
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\bin\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.pdb
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\obj\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.csprojResolveAssemblyReference.cache
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\obj\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.csproj.CoreCompileInputs.cache
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\obj\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.AssemblyInfoInputs.cache
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\obj\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.AssemblyInfo.cs
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\obj\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.dll
+D:\Practise\C#\DotNetCoreOnionArchitectureStarter\DotNetCoreOnionArchitectureStarter.Core\obj\Debug\netcoreapp2.0\DotNetCoreOnionArchitectureStarter.Core.pdb

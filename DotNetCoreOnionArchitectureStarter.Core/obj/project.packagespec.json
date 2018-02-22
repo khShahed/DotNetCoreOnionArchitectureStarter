@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Practise\\C#\\DotNetCoreOnionArchitectureStarter\\DotNetCoreOnionArchitectureStarter.Core\\DotNetCoreOnionArchitectureStarter.Core.csproj",
+    "projectName": "DotNetCoreOnionArchitectureStarter.Core",
+    "projectPath": "D:\\Practise\\C#\\DotNetCoreOnionArchitectureStarter\\DotNetCoreOnionArchitectureStarter.Core\\DotNetCoreOnionArchitectureStarter.Core.csproj",
+    "outputPath": "D:\\Practise\\C#\\DotNetCoreOnionArchitectureStarter\\DotNetCoreOnionArchitectureStarter.Core\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.5, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
